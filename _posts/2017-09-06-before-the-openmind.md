@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生命游戏
+title: 我是谁
 date: 2017-09-06
 categories: blog
 tags: [自我]

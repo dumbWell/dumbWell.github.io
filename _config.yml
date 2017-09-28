@@ -1,8 +1,8 @@
 # Basic
 title: dumbWell
 subtitle: 书写的洞穴，透见光
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">喜欢这个主题？</a>
-description: 演化的道路上，一寸一厘，皆有欢喜
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Theme</a>
+description: 演化的道路，一寸一厘，皆有欢喜.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: slate
+cover_color: orange
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Unkown, description: My Projects, url: 'http://project.onevcat.com'}
+    #- {title: Unkown, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination

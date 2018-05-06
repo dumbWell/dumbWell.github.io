@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 写在昔年的边缘
+title: 三生有幸，今日幸会
 date: 2018-03-03
 categories: blog
 tags: [读书、反思]
